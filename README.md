@@ -3,6 +3,9 @@ Categorize 4 characters in the Movie "New World"
 
 영화 "신세계" 속 등장인물 4명의 얼굴 분류하기
 
+---
+
+## 팀원 소개
 - 강현주(qwas6435@gmail.com)
 - 김현지(annjee.kim@gmail.com)
 - 방지원(bjw0723@gmail.com)
